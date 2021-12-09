@@ -1,0 +1,17 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form{
+    width: 500px;
+    height: 700px;
+
+    padding-left: 50px;
+
+    border: solid;
+    border-width: 5px;
+    border-radius: 10%;
+}
